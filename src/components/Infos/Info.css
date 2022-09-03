@@ -1,0 +1,23 @@
+.info {
+  background: #aa9e54;
+  border-radius: 0px;
+  padding: 100px 0;
+  color: #fff;
+}
+
+h3 {
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 22px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.info-desc {
+  color: #fff;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 36px;
+  text-align: center;
+  color: #ffffff;
+}

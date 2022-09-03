@@ -1,0 +1,16 @@
+header {
+  background: #4a2b33;
+  border-radius: 0px;
+}
+
+.header-link {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  color: #d27487;
+}
+
+i {
+    color: #C67A88;
+    font-size: 22px;
+}

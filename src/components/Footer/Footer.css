@@ -1,0 +1,21 @@
+footer {
+  background: #4a2b33;
+  padding: 100px 0;  
+}
+
+.footer-title {
+  font-weight: 400;
+  font-size: 47px;
+  line-height: 62px;
+  letter-spacing: 1px;
+  color: #d27487;
+  text-align: left;
+}
+
+.footer-desc {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  color: #d27487;
+  text-align: left;
+}

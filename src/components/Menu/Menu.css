@@ -1,0 +1,47 @@
+.menu {
+  background: #e9e9e3;
+  border-radius: 0px;
+}
+
+.menu-title {
+  font-weight: 700;
+  font-size: 18px;
+  text-align: left;
+  line-height: 22px;
+  color: #6f6f64;
+}
+
+.avorizm {
+    width: 100%;
+    max-width: 558px;
+}
+
+.menu-desc {
+  font-weight: 400;
+  font-size: 32px;
+  text-align: left;
+  line-height: 45px;
+  color: #6f6f64;
+  margin-bottom: 74px;
+}
+
+.btns {
+  max-width: 531px;
+  width: 100%;
+}
+
+.btn-one {
+  background: #6f6f64;
+  border: 2px solid #6f6f64;
+  border-radius: 0px;
+  color: #ffffff;
+}
+
+.btn-two,
+.btn-there {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  text-align: center;
+  color: #6f6f64;
+}
